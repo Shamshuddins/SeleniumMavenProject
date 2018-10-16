@@ -1,0 +1,12 @@
+Test Summary Report
+Test Name :CUSTOM
+Start Date : Fri Sep 21 13:27:59 IST 2018,
+End Date   :  Fri Sep 21 13:28:06 IST 2018,
+Total Duration :0 Hours 0 Minutes 7 Seconds,
+Total Pass : 1,
+Total Fail : 0,
+Executed By : NITISH-TI8828/nitish.nayak/OS-Windows 10,
+Groups: TC001,,
+URL :https://google.com,
+Browser : Chrome 
+TC001:Normal Flow Till CheckOut,Pass,Duration: 0 Hours 0 Minutes 6 Seconds
