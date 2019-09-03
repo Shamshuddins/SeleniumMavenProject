@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="340.043">
+  <properties />
+  
+  
+            <testcase name="verifyOpportunityCurrencyChangeFunctionality" time="340.043" classname="com.GAP.WS1_0.Opportunity_Currency_Change" />
+      
+</testsuite>

@@ -1,0 +1,21 @@
+[RemoteTestNG] detected TestNG version 6.14.2
+Sep 21, 2018 4:41:17 PM org.openqa.selenium.remote.DesiredCapabilities firefox
+INFO: Using `new FirefoxOptions()` is preferred to `DesiredCapabilities.firefox()`
+1537528277571	geckodriver	INFO	geckodriver 0.21.0
+1537528277582	geckodriver	INFO	Listening on 127.0.0.1:36870
+1537528278284	mozrunner::runner	INFO	Running command: "C:\\Program Files (x86)\\Mozilla Firefox\\firefox.exe" "-marionette" "-foreground" "-no-remote" "-profile" "C:\\Users\\Girikon\\AppData\\Local\\Temp\\rust_mozprofile.KJwChEyGNKEG"
+1537528278840	Marionette	INFO	Enabled via --marionette
+1537528280259	Marionette	INFO	Listening on port 60383
+1537528280405	Marionette	WARN	TLS certificate errors will be ignored for this session
+Sep 21, 2018 4:41:20 PM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+=======================Send Docusign without Billing Contact method execution started===========================
+JavaScript error: https://informage--fullsbox--c.cs23.visual.force.com/jslibrary/1521488830000/ui-sfdc-javascript-impl/SfdcCore.js, line 297: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://informage--fullsbox--c.cs23.visual.force.com/jslibrary/1521488830000/ui-sfdc-javascript-impl/SfdcCore.js, line 297: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://informage--fullsbox--c.cs23.visual.force.com/jslibrary/1521488830000/ui-sfdc-javascript-impl/SfdcCore.js, line 297: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://informage--fullsbox--c.cs23.visual.force.com/jslibrary/1521488830000/ui-sfdc-javascript-impl/SfdcCore.js, line 297: NS_ERROR_NOT_INITIALIZED: 
+JavaScript error: https://informage--fullsbox.lightning.force.com/auraFW/javascript/zE77qnV6DkUfvOpOgt_M9Q/aura_prod.js, line 114: NS_ERROR_NOT_INITIALIZED: 
+[Child 13224, Chrome_ChildThread] W*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+
+###!!! [Child][MessageChannel::SendAndWait] Error: Channel error: cannot send/recv
+

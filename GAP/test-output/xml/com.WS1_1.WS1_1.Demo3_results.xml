@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="78.884">
+  <properties />
+  
+  
+            <testcase name="Demo3" time="78.884" classname="com.WS1_1.WS1_1.Demo3" />
+      
+</testsuite>

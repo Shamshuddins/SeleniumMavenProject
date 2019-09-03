@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="113.268">
+  <properties />
+  
+  
+            <testcase name="Business_Partner_Information" time="113.268" classname="com.WS1_1.WS1_1.Business_Partner_Information" />
+      
+</testsuite>

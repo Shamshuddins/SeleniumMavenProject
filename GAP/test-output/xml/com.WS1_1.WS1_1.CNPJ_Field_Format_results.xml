@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="82.170">
+  <properties />
+  
+  
+            <testcase name="CNPJ_field_format" time="82.170" classname="com.WS1_1.WS1_1.CNPJ_Field_Format" />
+      
+</testsuite>

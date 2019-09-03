@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="143.435">
+  <properties />
+  
+  
+            <testcase name="CreateLeadSales" time="143.435" classname="com.GAP.WS1_0.Character_Limitation" />
+      
+</testsuite>

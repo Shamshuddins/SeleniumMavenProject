@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
+  <parameter name="masterFileName" value="master.txt"/>
+  <test thread-count="5" name="Default test(failed)">
+    <classes>
+      <class name="com.GAP.WS1_0.Chrome_Create_New_Opp">
+        <methods>
+          <include name="Initiate_Browser"/>
+          <include name="startReport"/>
+          <include name="booth_rent_stage_on_payment"/>
+          <include name="Setup"/>
+          <include name="getResult"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- com.GAP.WS1_0.Chrome_Create_New_Opp -->
+    </classes>
+  </test> <!-- Default test(failed) -->
+</suite> <!-- Failed suite [Default suite] -->

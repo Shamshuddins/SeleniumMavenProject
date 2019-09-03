@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="309.420">
+  <properties />
+  
+  
+            <testcase name="booth_rent_stage_on_payment" time="309.420" classname="com.GAP.WS1_0.Booth_Rent_Stage_On_Contract" />
+      
+</testsuite>

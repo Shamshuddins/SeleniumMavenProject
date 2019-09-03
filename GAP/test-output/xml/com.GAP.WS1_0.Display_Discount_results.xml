@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="507.630">
+  <properties />
+  
+  
+            <testcase name="display_discount" time="507.630" classname="com.GAP.WS1_0.Display_Discount" />
+      
+</testsuite>

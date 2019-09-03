@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="171.334">
+  <properties />
+  
+  
+            <testcase name="Billing_Contact_Reflection_on_Quote" time="171.334" classname="com.GAP.WS1_0.Billing_Contact_reflection_on_Quote" />
+      
+</testsuite>

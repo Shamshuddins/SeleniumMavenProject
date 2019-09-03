@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="1420.373">
+  <properties />
+  
+  
+            <testcase name="verifyOrderNotActivatedFOCQuotes" time="1420.373" classname="com.GAP.WS1_0.Order_NotActivated_FOC_Quotes" />
+      
+</testsuite>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Failed suite [WS1.0]" guice-stage="DEVELOPMENT">
+  <parameter name="masterFileName" value="master.txt"/>
+  <listeners>
+    <listener class-name="org.uncommons.reportng.HTMLReporter"/>
+    <listener class-name="org.uncommons.reportng.JUnitXMLReporter"/>
+  </listeners>
+  <test thread-count="5" name="CRM(failed)">
+    <classes>
+      <class name="com.GAP.WS1_0.Brand_Edit_Availability">
+        <methods>
+          <include name="Initiate_Browser"/>
+          <include name="startReport"/>
+          <include name="Setup"/>
+          <include name="brand_edit_availability" invocation-numbers="0"/>
+          <include name="getResult"/>
+          <include name="Teardown"/>
+        </methods>
+      </class> <!-- com.GAP.WS1_0.Brand_Edit_Availability -->
+    </classes>
+  </test> <!-- CRM(failed) -->
+</suite> <!-- Failed suite [WS1.0] -->

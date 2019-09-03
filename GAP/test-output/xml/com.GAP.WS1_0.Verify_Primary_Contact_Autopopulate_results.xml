@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="165.565">
+  <properties />
+  
+  
+            <testcase name="Verify_Primary_Contact_Autopopulate" time="165.565" classname="com.GAP.WS1_0.Verify_Primary_Contact_Autopopulate" />
+      
+</testsuite>

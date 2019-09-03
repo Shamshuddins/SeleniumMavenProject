@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="554.362">
+  <properties />
+  
+  
+            <testcase name="verifyQuoteLineRenderingchange" time="554.362" classname="com.GAP.WS1_0.Quote_Line_Rendering_change" />
+      
+</testsuite>

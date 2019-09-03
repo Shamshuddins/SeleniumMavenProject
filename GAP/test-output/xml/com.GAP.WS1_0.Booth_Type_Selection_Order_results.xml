@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="376.132">
+  <properties />
+  
+  
+            <testcase name="verifyBoothSelectionOrder" time="376.132" classname="com.GAP.WS1_0.Booth_Type_Selection_Order" />
+      
+</testsuite>

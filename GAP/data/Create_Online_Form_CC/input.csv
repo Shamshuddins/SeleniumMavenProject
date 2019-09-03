@@ -1,0 +1,2 @@
+Form Name,Section Name,Section Column,Template Builder,Compose Text,Checkbox1 Unchecked(0)/Checked(1),Help Text Value,Max Char Limit,Checkbox2 Unchecked(0)/Checked(1),Checkbox3 Unchecked(0)/Checked(1),Checkbox4 Unchecked(0)/Checked(1),Checkbox5 Unchecked(0)/Checked(1),Checkbox6 Unchecked(0)/Checked(1),Currency,Decimal Limit,Clone Template,Version,Checkbox7 Unchecked(0)/Checked(1)
+form,Section1412,2,Date,Text to Compose Date,1,Text to Help Date,4566,0,0,0,0,0,TT$,3,clone form1412,1,0

@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd" >
+<suite name="WS1.0">
+	<listeners>
+		<listener class-name="org.uncommons.reportng.HTMLReporter" />
+		<listener class-name="org.uncommons.reportng.JUnitXMLReporter" />
+	</listeners>
+	<parameter name="masterFileName" value="master.txt"/>
+	<test name="CC">
+		<classes>		
+			
+			<!-- <class name="com.GAP.WS1_0.Create_Online_Form_CC"/> --> 
+			<class name="com.GAP.WS1_0.Chrome_Create_New_Opp"/>
+			
+		</classes>
+	</test>
+</suite> 

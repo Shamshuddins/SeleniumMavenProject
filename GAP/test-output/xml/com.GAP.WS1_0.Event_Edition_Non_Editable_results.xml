@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="23.027">
+  <properties />
+  
+  
+            <testcase name="verifyEventEditionNonEditableFunctionality" time="23.027" classname="com.GAP.WS1_0.Event_Edition_Non_Editable" />
+      
+</testsuite>

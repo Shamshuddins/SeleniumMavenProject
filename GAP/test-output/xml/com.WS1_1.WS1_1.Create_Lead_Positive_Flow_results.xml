@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="154.977">
+  <properties />
+  
+  
+            <testcase name="Lead_Creation" time="154.977" classname="com.WS1_1.WS1_1.Create_Lead_Positive_Flow" />
+      
+</testsuite>

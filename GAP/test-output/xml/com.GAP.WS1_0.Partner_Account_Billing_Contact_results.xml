@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="CRM"
+           tests="1"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="271.156">
+  <properties />
+  
+  
+            <testcase name="Partner_Account_Billing_Contact" time="271.156" classname="com.GAP.WS1_0.Partner_Account_Billing_Contact" />
+      
+</testsuite>
